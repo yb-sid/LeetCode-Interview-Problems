@@ -3,7 +3,6 @@ def two_sum(nums: list[int], target: int):
     for index, value in enumerate(nums):
         current = value
         complement = target - current
-
         if complement in map:
             return [index, map[complement]]
         map[current] = index
