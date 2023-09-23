@@ -41,7 +41,7 @@ Each problem subfolder , inside /problems contains the following:
 
 ## Problem Overview
 
-For each problem, refer to the `readme.md` file in the respective problem subfolder. It provides detailed information about the problem statement and the logic employed to solve it.
+For each problem, refer to the `markdown` file in the respective problem subfolder. It provides detailed information about the problem statement and the logic employed to solve it.
 
 ## Language Support
 
@@ -61,7 +61,7 @@ The solutions provided in this repository are meant to serve as learning resourc
 
 ## About the Author
 
-I am an Experienced Data Engineer. This repository is a testament to my journey of learning and implementation to become a better coder and problem solver.
+I am an Experienced Data Engineer. This repository is a testament to my journey of learning and implementation to become a better problem solver.
 
 
 
